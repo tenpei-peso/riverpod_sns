@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316861433077",
+    "project_id": "flutterapp-fd741",
+    "storage_bucket": "flutterapp-fd741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316861433077:android:e6e5291fe97e465052f1bc",
+        "android_client_info": {
+          "package_name": "com.example.udemy_sns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316861433077-cdpskh5pok1fjbakhha8se11clj8mi1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiadHMTWM3tJKEjddjww7deOYDeohSDtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316861433077-cdpskh5pok1fjbakhha8se11clj8mi1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
