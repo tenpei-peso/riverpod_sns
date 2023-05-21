@@ -30,7 +30,9 @@ class TopPage extends ConsumerWidget {
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: () => ref.read(topPageNotifier.notifier).increment(),
+        onPressed: () async {
+          await ref.read(topPageNotifier.notifier).createUser();
+        },
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ),
